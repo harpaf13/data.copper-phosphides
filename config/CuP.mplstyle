@@ -69,7 +69,6 @@ axes.spines.top               : True
 axes.grid                     : False 
 axes.grid.which               : major
 axes.grid.axis                : both
-axes.tick_params.direction    : in
 
 legend.fancybox               : False
 legend.loc                    : best
@@ -93,3 +92,5 @@ xtick.color                   : .15
 ytick.color                   : .15
 xtick.minor.visible           : False
 ytick.minor.visible           : False
+xtick.direction               : in
+ytick.direction               : in
