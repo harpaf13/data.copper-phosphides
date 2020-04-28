@@ -16,8 +16,7 @@ font.monospace                : DejaVu Sans Mono, Bitstream Vera Sans Mono, Comp
 figure.titlesize              : large
 legend.fontsize               : small
 text.color                    : .15
-text.usetex                   : False 
-text.latex.unicode            : False
+text.usetex                   : False
 text.latex.preamble           : \usepackage{sfmath}\usepackage{helvet}\usepackage{amsmath}
 text.latex.preview            : False
 text.hinting                  : auto
@@ -29,7 +28,7 @@ mathtext.tt                   : monospace
 mathtext.it                   : sans:italic
 mathtext.bf                   : sans:bold
 mathtext.sf                   : sans
-mathtext.fontset              : stixsans 
+mathtext.fontset              : stixsans
 mathtext.default              : regular
 mathtext.fallback_to_cm       : True
 
@@ -47,7 +46,6 @@ figure.frameon                : True
 figure.autolayout             : False
 savefig.facecolor             : w
 savefig.edgecolor             : w
-savefig.frameon               : True
 savefig.dpi                   : 400
 savefig.bbox                  : tight
 savefig.pad_inches            : 0.1
@@ -57,16 +55,16 @@ lines.linewidth               : 1.25
 lines.linestyle               : -
 
 axes.labelcolor               : .15
-axes.labelsize                : medium 
-axes.titlesize                : medium 
+axes.labelsize                : medium
+axes.titlesize                : medium
 axes.facecolor                : white
 axes.edgecolor                : .8
 axes.linewidth                : 1.25
 axes.spines.left              : True
-axes.spines.right             : True 
+axes.spines.right             : True
 axes.spines.bottom            : True
-axes.spines.top               : True 
-axes.grid                     : False 
+axes.spines.top               : True
+axes.grid                     : False
 axes.grid.which               : major
 axes.grid.axis                : both
 
