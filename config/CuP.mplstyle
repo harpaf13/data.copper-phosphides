@@ -1,5 +1,4 @@
 # colors
-#axes.prop_cycle               : cycler('color', ['1b9e77', 'd95f02', '7570b3', 'e7298a', '66a61e', 'e6ab02', 'a6761d', '666666', 'bc80bd'])
 # replace first of default matador colours with black to get black tie-line
 axes.prop_cycle               : cycler('color', ['black', 'd95f02', '7570b3', 'e7298a', '66a61e', 'e6ab02', 'a6761d', '666666', 'bc80bd'])
 image.cmap                    : magma
@@ -45,7 +44,7 @@ figure.edgecolor              : w
 figure.frameon                : True
 figure.autolayout             : False
 savefig.facecolor             : w
-savefig.edgecolor             : w
+savefig.edgecolor             : k
 savefig.dpi                   : 400
 savefig.bbox                  : tight
 savefig.pad_inches            : 0.1
@@ -58,8 +57,8 @@ axes.labelcolor               : .15
 axes.labelsize                : medium
 axes.titlesize                : medium
 axes.facecolor                : white
-axes.edgecolor                : .8
-axes.linewidth                : 1.25
+axes.edgecolor                : black
+axes.linewidth                : 1
 axes.spines.left              : True
 axes.spines.right             : True
 axes.spines.bottom            : True
@@ -78,17 +77,19 @@ legend.frameon                : True
 legend.framealpha             : 0.8
 legend.borderpad              : 0.4
 legend.facecolor              : inherit
-legend.edgecolor              : 0.8
+legend.edgecolor              : black
 
 xtick.labelsize               : small
 ytick.labelsize               : small
-xtick.major.size              : 3.0
-ytick.major.size              : 3.0
+xtick.major.size              : 6.0
+ytick.major.size              : 6.0
 xtick.major.width             : 1.0
 ytick.major.width             : 1.0
 xtick.color                   : .15
 ytick.color                   : .15
-xtick.minor.visible           : False
-ytick.minor.visible           : False
+xtick.minor.size              : 2.0
+ytick.minor.size              : 2.0
+xtick.minor.visible           : True
+ytick.minor.visible           : True
 xtick.direction               : in
 ytick.direction               : in
