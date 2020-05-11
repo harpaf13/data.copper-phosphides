@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/harpaf13/data.copper_phosphides/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/harpaf13/data.copper-phosphides/master)
 
 This repository accompanies the paper **Novel Phases of Copper Phosphides from Computational Structure Searches** by Angela Harper, Matthew Evans & Andrew Morris.
 
