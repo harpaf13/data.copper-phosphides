@@ -1,1 +1,3 @@
--e git+git://github.com/ml-evs/matador.git@develop[plotting]
+-e git+git://github.com/ml-evs/matador.git@develop#egg=matador
+matplotlib>=3.0
+python-ternary>=1.0.6
