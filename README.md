@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/harpaf13/data.copper-phosphides/master)
 
-This repository accompanies the paper **Novel Phases of Copper Phosphides from Computational Structure Searches** by Angela Harper, Matthew Evans & Andrew Morris.
+This repository accompanies the paper **Computational Discovery of Novel Copper Phosphide Conversion Anode for Lithium-Ion Batteries** by Angela Harper, Matthew Evans & Andrew Morris.
 
 The notebook `CuP_results.ipynb` can be explored interactively with [Binder](https://mybinder.org/v2/gh/harpaf13/data.copper_phosphides/master), which provides functionality to pull the raw data from the University of Cambridge repository once it has been made available.
 
