@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/harpaf13/data.copper-phosphides/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/harpaf13/data.copper-phosphides/master?filepath=CuP_results.ipynb)
 
 This repository accompanies the paper **Computational Discovery of Novel Copper Phosphide Conversion Anode for Lithium-Ion Batteries** by Angela Harper, Matthew Evans & Andrew Morris ([arXiv 2005.05375](https://arxiv.org/abs/2005.05375)).
 
